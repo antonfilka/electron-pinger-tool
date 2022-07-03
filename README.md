@@ -1,9 +1,5 @@
-# Electron-React-TypeScript-Webpack-Boilerplate
-Pre-configured Electron.js + React.js + TypeScript boilerplate with 
-Webpack v5 & linters config predefined.
+# Electron-React-TypeScript-Webpack
 
-This boilerplate currently works on macOS and Windows. If something doesn't 
-work, please [file an issue](https://github.com/Devtography/electron-react-typescript-webpack-boilerplate/issues/new).
 
 ## Getting started
 ```sh
@@ -136,20 +132,3 @@ electron-react-typescript-base-proj/
 | - tsconfig.json       //- TypeScript config
 | - webpack.config.js   //- Webpack config
 ```
-
-## Author
-[Wing Chau](https://github.com/iamWing) [@Devtography](https://github.com/Devtography)
-
-## Donation
-I do this open source work for free in my free time. If you'd like me to invest
-more time on it, please consider give me some [donations]. Any donation is
-gonna be a great motivation for me.
-
-## License
-Electron React TypeScript Webpack Boilerplate is open source software 
-[licensed as MIT](LICENSE).
-
-[notarization requirements]: https://developer.apple.com/news/?id=04102019a
-[electron-builder #3870]: https://github.com/electron-userland/electron-builder/issues/3870
-[`electron-builder@22.10.4`]: https://github.com/electron-userland/electron-builder/releases/tag/v22.10.4
-[donations]: https://github.com/sponsors/iamWing
